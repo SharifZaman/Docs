@@ -16,7 +16,7 @@ The easiest way to get started building applications with ASP.NET 5 is to instal
 
 1. Install `Visual Studio 2015 <https://go.microsoft.com/fwlink/?LinkId=532606>`__
 
-  Be sure to specify that you want to include the Microsoft Web Developer Tools.
+  Be sure to specify that you want to include the Microsoft Web Developer Tools. And Microsoft SQL Server Data Tools.
 
   .. image:: installing-on-windows/_static/web-dev-tools.png
 
